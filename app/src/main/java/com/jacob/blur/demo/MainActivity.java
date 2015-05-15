@@ -19,4 +19,9 @@ public class MainActivity extends FragmentActivity {
         Intent intent = new Intent(this,RenderScriptBlurActivity.class);
         startActivity(intent);
     }
+
+    public void fastBlur(View view){
+        Intent intent = new Intent(this,FastBlurActivity.class);
+        startActivity(intent);
+    }
 }

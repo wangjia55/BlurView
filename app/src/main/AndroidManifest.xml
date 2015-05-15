@@ -19,6 +19,9 @@
 
         <activity android:name=".RenderScriptBlurActivity"
             android:screenOrientation="portrait"/>
+        <activity android:name=".FastBlurActivity"
+            android:screenOrientation="portrait"/>
+
     </application>
 
 </manifest>
