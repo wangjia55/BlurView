@@ -6,7 +6,7 @@
     android:gravity="center"
     tools:context=".MainActivity">
 
-    <TextView android:text="演示高斯模糊效果实现方案"
+    <TextView android:text="演示高斯模糊效果实现方案\n gitHub:https://github.com/paveldudka/blurring"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="19sp"/>
